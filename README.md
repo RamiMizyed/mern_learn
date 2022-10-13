@@ -1,1 +1,1 @@
-This is a tutorial to better learn : MongoDB, React, Apollo, Grapghql
+A server to better learn Apollo/MongoDb
